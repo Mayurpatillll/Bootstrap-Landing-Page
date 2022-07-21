@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://i.stack.imgur.com/f2wuB.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.col h1 {
+    font-size: 60px;
+    font-family: Montserrat;
+    font-weight: bold;
+    padding: 20px 0px;
+}
+
+.col p {
+    font-size: 16px;
+    font-family: Montserrat;
+}
+
+.col button {
+    padding: 15px 20px;
+    border-radius: 15px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.learn-more {
+    padding: 15px 20px;
+    border-radius: 15px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+}
+
+.btn:hover {
+    box-shadow: 0 20px 40px rgba(72, 78, 85, .6);
+}
